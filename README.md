@@ -45,18 +45,18 @@ const jwal = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚛️ <a href="https://github.com/jwalsaraiya/quantum-decoherence-simulator">Quantum Decoherence 3D</a></h3>
+      <h3>⚛️ <a href="https://quantum-decoherence-simulator-jwalsaraiya.vercel.app/">Quantum Decoherence 3D</a></h3>
       <p>Interactive 3D Quantum Decoherence & Bloch Sphere simulator. Visualizes real-time quantum state rotations, pure dephasing timescales, and thermal environmental coupling in WebGL.</p>
       <p>
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live_App-10B981?style=flat-square&logo=vercel&logoColor=white" />
       </p>
-      <p><b>👉 <a href="https://github.com/jwalsaraiya/quantum-decoherence-simulator">Explore 3D Simulation & Code</a></b></p>
+      <p><b>🔗 <a href="https://quantum-decoherence-simulator-jwalsaraiya.vercel.app/">Launch 3D Simulation</a></b> &bull; <b><a href="https://github.com/jwalsaraiya/quantum-decoherence-simulator">Source</a></b></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/jwalsaraiya/glowstreak">Glowstreak</a></h3>
+      <h3>⚡ <a href="https://glowstreak.lovable.app">Glowstreak</a></h3>
       <p>High-performance habit analytics engine featuring interactive completion heatmaps, trend curves, and focus dashboards. Built exploring agentic full-stack scaffolding and UI synthesis.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
