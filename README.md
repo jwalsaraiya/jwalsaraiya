@@ -3,7 +3,7 @@
 # ⚡ Jwal Saraiya
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+autonomous+AI+agents+%26+real-world+tools;Full-Stack+Engineer+%7C+IT+%40+SAKEC+Chembur+%2730;3D+Physics+Simulations+%7C+Three.js+%2B+React;Trekking+the+Sahyadris+%7C+Cinema+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%7C+IT+%40+SAKEC+Chembur+%2730;3D+Physics+Simulations+%7C+Three.js+%2B+React;Exploring+AI+systems+%26+modern+web+engineering;Trekking+the+Sahyadris+%7C+Cinema+Enthusiast" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,21 +20,21 @@
 
 ---
 
-### 🚀 Who I Am
+### 🚀 About Me
 
-Hey! I’m **Jwal**, a full-stack engineer and creative technologist based in Mumbai. 
+Hey! I’m **Jwal**, an engineering undergrad based in Mumbai.
 
-Currently pursuing **Information Technology** at **Shah & Anchor Kutchhi Engineering College (SAKEC), Chembur** (`Batch 2026–2030`).
-
-I build software that bridges the gap between **autonomous AI systems, tactile frontend engineering, and immersive 3D simulations**. I care deeply about product craftsmanship—building clean, high-agency tools designed to solve genuine real-world friction.
+* 🎓 **Education**: First Year Information Technology at **Shah & Anchor Kutchhi Engineering College (SAKEC), Chembur** (`Batch 2026–2030`).
+* 🏆 **Hackathons**: Finalist @ **D.J. Sanghvi Elevate 1.0 Hackathon**—qualified for the offline finale with a 4-member team.
+* 💡 **Interests**: 3D web graphics, modern full-stack systems, exploring AI tools, and building practical software that solves real friction.
 
 ```typescript
 const jwal = {
   location: "Mumbai, India",
-  education: "B.E. Information Technology @ SAKEC Chembur ('30)",
-  passions: ["Autonomous AI Agents", "3D Web Graphics & Simulations", "Applied Entrepreneurship"],
-  offDuty: ["Trekking Sahyadri Peaks", "Deep Cinema Analysis", "Sound Design"],
-  currentFocus: "Architecting real-world AI agent workflows & aviation telemetry"
+  education: "First Year B.E. Information Technology @ SAKEC Chembur ('30)",
+  interests: ["3D Web Graphics & Simulations", "Full-Stack Development", "AI Systems"],
+  highlights: ["Finalist @ D.J. Sanghvi Elevate 1.0 Hackathon (Offline Finale)"],
+  offDuty: ["Trekking Sahyadri Peaks", "Cinema Analysis", "Sound Design"]
 };
 ```
 
@@ -69,9 +69,6 @@ const jwal = {
   </tr>
 </table>
 
-> [!TIP]
-> **Active Labs & Stealth Development**: Currently engineering **AeroSync** (a high-reliability, tactile aviation companion for Indian flyers inspired by *Flighty* and Apple Design Award winners) and experimenting with multi-agent tool execution pipelines.
-
 ---
 
 ### 🧰 Tech Arsenal
@@ -83,8 +80,7 @@ const jwal = {
 | **Languages** | `TypeScript` &bull; `JavaScript (ESNext)` &bull; `Python` &bull; `HTML5` &bull; `CSS3` |
 | **Frontend & 3D** | `React` &bull; `Three.js (WebGL)` &bull; `Tailwind CSS` &bull; `Framer Motion` &bull; `Vite` &bull; `shadcn/ui` &bull; `Radix UI` |
 | **Data & Viz** | `Recharts` &bull; `Leaflet` &bull; `TanStack Query` |
-| **AI & Automation** | `Autonomous AI Agents` &bull; `Agentic Scaffolding` &bull; `LLM Tool Orchestration` &bull; `Prompt Architecture` |
-| **DevOps & Tools** | `Git` &bull; `GitHub Actions` &bull; `Vercel` &bull; `Lovable` &bull; `npm / Bun` |
+| **Tools & Platforms** | `Git` &bull; `GitHub Actions` &bull; `Vercel` &bull; `Lovable` &bull; `npm / Bun` |
 
 </div>
 
@@ -105,15 +101,13 @@ const jwal = {
 
 ### 🌄 Beyond the Terminal
 
-When I’m not testing agents or optimizing rendering loops:
-* ⛰️ **Trekking the Sahyadris**: Scaling Western Ghat forts and peaks across Maharashtra. Getting outdoors is the best reset button.
+* ⛰️ **Trekking the Sahyadris**: Scaling Western Ghat forts and trails across Maharashtra.
 * 🎬 **Cinema & Narrative**: Big believer that great cinema teaches great UX—pacing, emotion, visual restraint, and sound design.
-* 💡 **Product Ideation**: Always looking for clunky, friction-heavy real-world problems that software or AI agents can solve cleanly.
+* 💡 **Curiosity**: Always exploring what new technology and AI tools can do when applied to practical challenges.
 
 ---
 
 <div align="center">
-  <b>Let's build something extraordinary together.</b><br />
   <a href="https://in.linkedin.com/in/jwal-saraiya-8203ab39b">Connect on LinkedIn</a> &bull;
   <a href="https://instagram.com/jwalsaraiya">Follow on Instagram</a> &bull;
   <a href="https://github.com/jwalsaraiya">Explore Code on GitHub</a>
