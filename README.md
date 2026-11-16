@@ -26,13 +26,13 @@ Hey! I’m **Jwal**, a full-stack engineer and creative technologist based in Mu
 
 Currently pursuing **Information Technology** at **Shah & Anchor Kutchhi Engineering College (SAKEC), Chembur** (`Batch 2026–2030`).
 
-I build software that bridges the gap between **autonomous AI systems, tactile frontend engineering, and immersive 3D simulations**. I care deeply about product craftsmanship—building clean, high-agency tools designed to solve genuine real-world friction rather than hype.
+I build software that bridges the gap between **autonomous AI systems, tactile frontend engineering, and immersive 3D simulations**. I care deeply about product craftsmanship—building clean, high-agency tools designed to solve genuine real-world friction.
 
 ```typescript
 const jwal = {
   location: "Mumbai, India",
   education: "B.E. Information Technology @ SAKEC Chembur ('30)",
-  passions: ["AI Agents", "3D Web Graphics", "Applied Entrepreneurship"],
+  passions: ["Autonomous AI Agents", "3D Web Graphics & Simulations", "Applied Entrepreneurship"],
   offDuty: ["Trekking Sahyadri Peaks", "Deep Cinema Analysis", "Sound Design"],
   currentFocus: "Architecting real-world AI agent workflows & aviation telemetry"
 };
@@ -40,53 +40,37 @@ const jwal = {
 
 ---
 
-### 🛠️ Featured Architecture & Flagships
+### 🛠️ Featured Public Showcases
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>✈️ <a href="https://github.com/jwalsaraiya/UNBOUND-APEX">AeroSync</a></h3>
-      <p>High-reliability mobile aviation companion for Indian flyers. Built with clean boarding pass typography, live flight tracking, and strict anti-slop design principles (inspired by Apple Design Award winners).</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>⚛️ <a href="https://github.com/jwalsaraiya/quantum-decoherence-simulator">Quantum Decoherence 3D</a></h3>
-      <p>Interactive 3D Quantum Decoherence & Bloch Sphere simulator. Visualizes real-time quantum state rotations, decoherence decay rates, and environmental thermal coupling in the browser.</p>
+      <p>Interactive 3D Quantum Decoherence & Bloch Sphere simulator. Visualizes real-time quantum state rotations, pure dephasing timescales, and thermal environmental coupling in WebGL.</p>
       <p>
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       </p>
+      <p><b>👉 <a href="https://github.com/jwalsaraiya/quantum-decoherence-simulator">Explore 3D Simulation & Code</a></b></p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚡ <a href="https://github.com/jwalsaraiya/glowstreak">Glowstreak</a></h3>
-      <p>High-performance habit analytics and productivity engine. Features interactive progress charts, calendar heatmaps, and customizable routine tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
-        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 <a href="https://github.com/jwalsaraiya/noyamedia">Noya Media</a></h3>
-      <p>Sleek digital media & creative agency web experience. Modern responsive architecture built with Radix UI, high-contrast layouts, and clean interactive feedback.</p>
+      <p>High-performance habit analytics engine featuring interactive completion heatmaps, trend curves, and focus dashboards. Built exploring agentic full-stack scaffolding and UI synthesis.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Radix_UI-161618?style=flat-square&logo=radixui&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-0F172A?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+        <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" />
+        <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live_App-10B981?style=flat-square&logo=safari&logoColor=white" />
       </p>
+      <p><b>🔗 <a href="https://glowstreak.lovable.app">Launch Live App (glowstreak.lovable.app)</a></b> &bull; <b><a href="https://github.com/jwalsaraiya/glowstreak">Source</a></b></p>
     </td>
   </tr>
 </table>
+
+> [!TIP]
+> **Active Labs & Stealth Development**: Currently engineering **AeroSync** (a high-reliability, tactile aviation companion for Indian flyers inspired by *Flighty* and Apple Design Award winners) and experimenting with multi-agent tool execution pipelines.
 
 ---
 
@@ -97,10 +81,10 @@ const jwal = {
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
 | **Languages** | `TypeScript` &bull; `JavaScript (ESNext)` &bull; `Python` &bull; `HTML5` &bull; `CSS3` |
-| **Frontend & 3D** | `React` &bull; `Three.js` &bull; `Tailwind CSS` &bull; `Framer Motion` &bull; `Vite` &bull; `shadcn/ui` &bull; `Radix UI` |
-| **Data & Mapping** | `Leaflet` &bull; `Recharts` &bull; `TanStack Query` |
-| **AI & Automation** | `Autonomous Agents` &bull; `LLM Tool Orchestration` &bull; `Prompt Architecture` &bull; `CI/CD Workflows` |
-| **DevOps & Tools** | `Git` &bull; `GitHub Actions` &bull; `Vercel` &bull; `PostCSS` &bull; `npm / Bun` |
+| **Frontend & 3D** | `React` &bull; `Three.js (WebGL)` &bull; `Tailwind CSS` &bull; `Framer Motion` &bull; `Vite` &bull; `shadcn/ui` &bull; `Radix UI` |
+| **Data & Viz** | `Recharts` &bull; `Leaflet` &bull; `TanStack Query` |
+| **AI & Automation** | `Autonomous AI Agents` &bull; `Agentic Scaffolding` &bull; `LLM Tool Orchestration` &bull; `Prompt Architecture` |
+| **DevOps & Tools** | `Git` &bull; `GitHub Actions` &bull; `Vercel` &bull; `Lovable` &bull; `npm / Bun` |
 
 </div>
 
@@ -122,7 +106,7 @@ const jwal = {
 ### 🌄 Beyond the Terminal
 
 When I’m not testing agents or optimizing rendering loops:
-* ⛰️ **Trekking the Sahyadris**: Scaling Western Ghat forts and peaks around Maharashtra. Getting outdoors is the best reset button.
+* ⛰️ **Trekking the Sahyadris**: Scaling Western Ghat forts and peaks across Maharashtra. Getting outdoors is the best reset button.
 * 🎬 **Cinema & Narrative**: Big believer that great cinema teaches great UX—pacing, emotion, visual restraint, and sound design.
 * 💡 **Product Ideation**: Always looking for clunky, friction-heavy real-world problems that software or AI agents can solve cleanly.
 
