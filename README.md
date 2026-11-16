@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Jwal Saraiya
+# Jwal Saraiya
 
 <p align="center">
   <b>B.Tech IT Student &bull; SAKEC Chembur &bull; Mumbai</b>
